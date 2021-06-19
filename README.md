@@ -1,7 +1,5 @@
 ## Hi there, I'm Sandesh Kota 👋
 
-<br />
-
 ### I'm a Full Stack Developer!!
 
 - :calendar: 2021 Goals: Master Front End Technologies and Architectural Patterns
