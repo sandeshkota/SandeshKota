@@ -4,7 +4,7 @@
 
 - :calendar: 2021 Goals: Master Front End Technologies and Architectural Patterns
 - :dart: Mastering: I’m currently mastering React.js 😇
-- :sunglasses: Hobbies: :cricket_game: Cricket, :ping_pong: Ping Pong, :badminton: Badminton, :tennis: Tennis,  :bowling: Bowling, :8ball: Billiards, :video_game: Gamer
+- :sunglasses: Hobbies: :cricket_game: Cricket, :ping_pong: Ping Pong, :badminton: Badminton, :tennis: Tennis,  :bowling: Bowling, :8ball: Billiards, :video_game: Gaming
 - :handshake: I’m looking to collaborate with other content creators
 
 
