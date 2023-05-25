@@ -31,6 +31,9 @@
 <br />
 <br />
 
+
 <a href="#stats">
-  <img align="left" alt="Sandesh Kota's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sandeshkota&hide=[%22prs%22,%22issues%22]&show_icons=true" />
+<img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sandeshkota&show_icons=true&theme=great-gatsby" />
+
+<img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshkota&show_icons=true&theme=great-gatsby" />
 </a>
